@@ -1,0 +1,5 @@
+max_width = 72
+comment_width = 72
+chain_width = 40
+format_code_in_doc_comments = true
+wrap_comments = true
