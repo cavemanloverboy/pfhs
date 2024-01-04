@@ -16,7 +16,7 @@ pub enum QuorumCertificate {
     Happy(QC),
 
     /// Sad certificate is constructed if the primary receives
-    /// n-f votes for previous view.
+    /// n-f new views for current view.
     ///
     ///
     /// In this case, the qc signatures are aggregated (AggQC).
