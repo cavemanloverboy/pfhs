@@ -1,4 +1,5 @@
 # Pipelined Fast-Hotstuff in Rust
+[paper](https://arxiv.org/abs/2010.11454)
 
 Notes:
 - Happy and sad path are implemented
